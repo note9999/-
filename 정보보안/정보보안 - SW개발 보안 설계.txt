@@ -1,0 +1,21 @@
+정보보안 - SW개발 보안 설계
+
+정보보안 트리플A 
+AAA(Authentication,Authrorization, Accounting)
+
+-인증(Authentication) : 사용자의 신원을 확인(시스템을 이용할 수 있는 사람이다)
+-권한부여(Authroization) : 권한과 서비를 허용( 내가 인증을 받고 로그인을 했으면 
+나한테 적절한 권한이 부여 되어야함)
+-계정관리(Accounting) : 사용자의 자원 사용 정보를 수집
+
+Secure SDLC(Software Development Life Cycle) 
+Secure SDLC 3가지 각 방법론 특징기억하기
+
+1. CLASP(Comprehensive,Lightweight Application Security Process)
+- "SDLC 초기단계"에서 보안강화를 위한 방법론
+2. MS-SDL
+- "마이크로소프트"가 개발한 안전한 소프트웨어 개발을 위한 방법론
+3. Seven Touchpoints
+- 소프트웨어 보안의 "모범사례" 를 SDLC에 통합한 방법 
+
+
